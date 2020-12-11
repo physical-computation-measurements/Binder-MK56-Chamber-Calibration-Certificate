@@ -9,7 +9,7 @@ The thermal chamber is pictured below:
 The key information from the calibration certificate is that the thermal chamber was measured to have an absolute temperature uncertainty of 0.2 K or less
 (which is well within the specification of 0.5 K) using one temperature measurement at 20.6 degrees Celsius at one point inside the chamber. 
 
-The reference standard used had a measurement uncertainty of 0.15 K.
+The reference standard used for the calibration had a measurement uncertainty of 0.15 K.
 
 
 
